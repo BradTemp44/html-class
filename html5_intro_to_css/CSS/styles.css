@@ -1,0 +1,66 @@
+html {background-color: #880307;
+
+
+}
+
+
+    body { background-color: #DA0917;
+    width: 1240px;
+    margin: 20px auto;
+    
+    
+    }
+
+
+    header {
+        padding: 20px;
+text-align: center;
+
+    }
+
+    header img {
+        display:block;
+        margin: 2px auto;
+        width: 90%
+    }
+
+
+    nav {
+background-color: #72240E;
+padding: 20px;
+text-align: center;
+text-size-adjust: ;
+    }
+
+nav a {
+    color: #DA0917;
+    font-size: 25px;
+    margin: 20px;
+}
+
+
+
+
+
+    main {
+        padding: 20px;
+  
+  
+    }
+    main img {
+        display: block;
+    margin: 20px auto;
+    width: 70%;
+    
+    }
+
+footer {
+    background-color: #A02F0F;
+    text-align: center;
+padding: 40px 0;
+
+}
+
+h1, h2, h3 {
+    color: #611B01;
+}
