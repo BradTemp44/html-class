@@ -6,7 +6,7 @@ body {
 
 img {
     display: block;
-    margin: o auto;
+    margin: 0 auto;
     width: 100%;
 }
 h1,h2,h3 {
@@ -16,7 +16,7 @@ h1,h2,h3 {
 
 #container {
     background-color: #F2CE1B;
-    width: 65%%;
+    width: 65%;
     margin: 20px auto;
     border: 4px solid #D96725;
 }
