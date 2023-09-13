@@ -96,7 +96,6 @@ table {
 
 tr,td {
     border: 4px solid #042235;
-    border-radius: 2px;
 }
 
 @media (min-width: 768px){
