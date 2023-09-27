@@ -8,7 +8,12 @@ video, audio {
     margin: 20px auto;
 }
 
-
+iframe {
+    display: block;
+    width: 100%;
+    margin: 20px auto;
+    height: 400px;
+}
 
 
 img {
